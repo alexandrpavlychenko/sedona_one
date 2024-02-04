@@ -1681,7 +1681,7 @@ img {
 
 .search-form .inputs-small-group {
   display: grid;
-  grid-template-columns: 139px 170px 80px 133px;
+  grid-template-columns: 139px 140px 110px 133px;
   column-gap: 18px;
   align-items: center;
   margin-bottom: 38px;
